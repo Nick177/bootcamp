@@ -10,3 +10,4 @@
 - Morocco
 - Spain
 - Norway
+- Germany

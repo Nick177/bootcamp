@@ -3,11 +3,10 @@
 ## Domestic
 - Montana
 - Colorado
-- New York
+- Maine
 
 
 ## Interational
 - Morocco
 - Spain
 - Norway
-- Canada

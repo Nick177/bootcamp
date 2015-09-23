@@ -5,6 +5,7 @@
 - Colorado
 - New Hampshire
 - Florida
+- New York
 
 ## Interational
 - Morocco

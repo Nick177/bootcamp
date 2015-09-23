@@ -1,10 +1,11 @@
 # Vacations
 
 ## Domestic
-- Main
 - Montana
 - Colorado
 
 
 ## Interational
-- your locations here
+- Morocco
+- Spain
+- Norway
